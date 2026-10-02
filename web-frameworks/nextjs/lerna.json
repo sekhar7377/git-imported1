@@ -1,0 +1,15 @@
+{
+  "npmClient": "pnpm",
+  "packages": [
+    "packages/*"
+  ],
+  "command": {
+    "version": {
+      "exact": true,
+      "allowBranch": [
+        "canary"
+      ]
+    }
+  },
+  "version": "16.4.0-canary.57"
+}

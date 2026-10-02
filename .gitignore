@@ -1,0 +1,25 @@
+# Build / cache artifacts
+node_modules/
+dist/
+build/
+.next/
+.nuxt/
+.eslintcache
+*.tsbuildinfo
+
+# Logs
+*.log
+server.log
+tunnel.log
+*.err
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
